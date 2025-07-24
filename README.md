@@ -59,7 +59,7 @@ port=YOUR_PORT
 weather_API_key=YOUR_OPENWEATHERMAP_APIKEY
 RapidAPI_key=YOUR_RAPIDAPI_APIKEY
 ```
-See also the `exmple_variables.env` file.  
+See also the `example_variables.env` file.  
 
 If you define your environment variables on GCP, make sure you use the same variable names as above.
 
